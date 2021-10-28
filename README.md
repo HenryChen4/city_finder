@@ -1,5 +1,5 @@
 # city_finder
-Finding 5 closest cities to an epicenter point by using the breadth first search algorithm
+Finding 5 closest cities to an epicenter point by using an original first search algorithm
 
 trying a new approach to limit the number of http requests to reduce errors and increase performance.
 
